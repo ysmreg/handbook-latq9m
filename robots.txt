@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ysmreg.github.io/handbook-latq9m/sitemap.xml
